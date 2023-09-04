@@ -18,10 +18,16 @@ using namespace __gnu_pbds;
  #define mod 1000000007
 typedef long long int ll;
 typedef unsigned long long int  llu;
-int main()
+void solve()
 {
 
+}
 
-  return 0;
+int main()
+{
+   RAZIB;
+   solve();
+
+   return 0;
 }
  
